@@ -4,7 +4,7 @@ import edu.pe.cibertec.beans.HolaMundo;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-public class Ejecutora {
+public class Ejecutora_XML {
     public static void main(String[] args) {
 
         // Proramación Tradicional
